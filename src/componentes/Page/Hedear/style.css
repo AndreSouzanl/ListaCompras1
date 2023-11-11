@@ -1,0 +1,25 @@
+.header {
+  background-color:lightskyblue;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+
+.header h1{
+    color: #fff;
+    margin-left: 35px;
+    
+}
+
+.header button {
+  width: 100px;
+  padding: 10px;
+  outline: none;
+  border: none;
+  margin-right: 50px;
+  background: linear-gradient(to right, red, blue);
+  color: #fff;
+  border-radius: 5px;
+}
